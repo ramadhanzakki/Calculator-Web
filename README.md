@@ -4,7 +4,8 @@ Ini adalah proyek kalkulator web fungsional yang dibuat murni dengan HTML, CSS, 
 
 ## 📸 Tampilan (Preview)
 
-_(Sangat disarankan untuk mengambil screenshot kalkulator Anda yang sudah jadi dan letakkan di sini. Anda bisa drag-and-drop gambar tersebut ke file README.md di GitHub)_
+<img width="520" height="839" alt="image" src="https://github.com/user-attachments/assets/c10d2644-99da-43e1-aa21-5c9047d5a7bf" />
+
 
 ## ✨ Fitur
 
